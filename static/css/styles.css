@@ -1,0 +1,27 @@
+body {
+    background-color: #333;
+    color: white;
+}
+
+a {
+    color: #ffc107;
+}
+
+h5 {
+    padding: 15px;
+    padding-left: 0px;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+  color: white;
+  background-color: #333;
+}
+
+.flashes {
+    color: red;
+    padding-top: 15px;
+}
